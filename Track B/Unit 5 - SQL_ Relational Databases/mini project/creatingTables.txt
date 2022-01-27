@@ -24,6 +24,7 @@ CREATE TABLE customer(
     Customer_Type varchar(150),
     Business_Name varchar(255),
     Address_Street_Name_Line_One varchar(255),
+	Address_Street_Name_Line_Two varchar(255),
     Address_City varchar(255),
    Address_State varchar(255),
    Address_Postal_Code varchar(100),
